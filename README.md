@@ -1,3 +1,4 @@
+# EJERCICIO 1
 ## 🧪 Proyecto de Pruebas de Performance con Apache JMeter – FakeStoreAPI
 
 Este proyecto contiene un **plan de prueba de rendimiento** desarrollado en **Apache JMeter 5.6.3**, que ejecuta una prueba de carga sobre el endpoint público `/auth/login` de [FakeStoreAPI](https://fakestoreapi.com/).  
@@ -54,10 +55,13 @@ Error %	< 3%
 Código HTTP	200 o 201
 Respuesta	Contiene "token"
 ## ℹ️ 4. Información adicional
-
 Archivo CSV (users.csv):
 Contiene los usuarios que se usan para autenticar en el endpoint:
 
 username,password
 donero,ewedon
 mor_2314,83r5^_
+
+# EJERCICIO 2
+Reporte de pruebas realizadas con JMeter
+Puede encontrar el reporte en el siguiente link : 👉 [Ver informe de pruebas](https://github.com/Pauemi/QA-Challenge-JMeter/blob/main/InformeResultadoPruebas.docx)
